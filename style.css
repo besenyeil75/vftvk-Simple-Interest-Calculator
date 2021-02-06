@@ -1,4 +1,25 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;
+      font-family:Arial;  
+      font-size:12px;
+       }
+h1{color:grey;}
+.maindiv{
+    background-color:white;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    margin:auto;
+}
+
+label{
+    width:70px;
+    display: inline-block;
+    font-weight:bold;
+}
 
 
+.highlight{
+    background-color:yellow;
+    font-weight:bold;
+    padding:3px;
+}
